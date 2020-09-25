@@ -1,1 +1,2 @@
 Test file for Git exercise (Lab 02)
+This is new text (part 2)
